@@ -1,0 +1,12 @@
+{
+  "name": "jquery-endless-scroll",
+  "homepage": "https://github.com/customer-alliance/jquery-endless-scroll",
+  "authors": [
+    "Eduard Bess <eduard.bess@gmail.com>"
+  ],
+  "description": "",
+  "main": "js/jquery.endless-scroll.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true
+}
